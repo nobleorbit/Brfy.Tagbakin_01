@@ -5,6 +5,10 @@
 ### PDF
 PopupPDFBehaviour_957D7657_8320_FC81_41C5_32A2A49166D4.url = files/GoogleMap_Brgy.%20Tagbakin%20lot_en.pdf
 
+### URL
+LinkBehaviour_9DD2C422_8121_DC82_41E0_030390E0C9F8.source = https://www.facebook.com/calabarzonproperties
+LinkBehaviour_9DC01009_8120_348E_41D3_A09E4E61E3AA.source = https://www.facebook.com/calabarzonproperties
+
 ## Hotspot
 
 ### Text
@@ -24,12 +28,18 @@ panorama_8A1D6A92_80E0_7583_41DA_7B554F9623F5.label = Tagbakin, TIaong, Quezon
 video_97B78D9B_8360_4F82_41D8_F20B6E006B30.label = lotarea
 
 ### Video
-videolevel_9FE86F27_83EF_CC82_41DF_14F830BB3D0A.url = media/video_97B78D9B_8360_4F82_41D8_F20B6E006B30_en.mp4
-videolevel_9FE86F27_83EF_CC82_41DF_14F830BB3D0A.posterURL = media/video_97B78D9B_8360_4F82_41D8_F20B6E006B30_poster_en.jpg
+videolevel_A15DBE77_81E0_4C82_41D1_F9FBBB6B3A05.url = media/video_97B78D9B_8360_4F82_41D8_F20B6E006B30_en.mp4
+videolevel_A15DBE77_81E0_4C82_41D1_F9FBBB6B3A05.posterURL = media/video_97B78D9B_8360_4F82_41D8_F20B6E006B30_poster_en.jpg
 
 ### Video Subtitles
 
 ## Skin
+
+### Image
+Image_9C58A868_8120_548E_41D2_18EC16DBCDCC.url = skin/Image_9C58A868_8120_548E_41D2_18EC16DBCDCC_en.png
+Image_9C7E7DB8_8120_4F8E_41DC_B657B64B3DE8.url = skin/Image_9C7E7DB8_8120_4F8E_41DC_B657B64B3DE8_en.png
+Image_9CE4C413_80E0_DC82_41DE_69F1B540E630.url = skin/Image_9CE4C413_80E0_DC82_41DE_69F1B540E630_en.png
+Image_9FA3260C_80E0_5C86_41B7_D52DF30DB123.url = skin/Image_9FA3260C_80E0_5C86_41B7_D52DF30DB123_en.png
 
 ### Label
 Label_9653DE24_8320_4C86_41D5_2F9F0487425C.text = Brgy. Tagbakin, Tiaong, Quezon
